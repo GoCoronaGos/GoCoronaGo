@@ -6,6 +6,7 @@
     color: #fff;
     display: inline-block;
     position: relative;
+    font-size: 1em;
 }
 .underline a:after {    
     background: none repeat scroll 0 0 transparent;
